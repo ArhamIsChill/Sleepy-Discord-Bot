@@ -1,10 +1,10 @@
 {
-    "token": "", 
-    "clientID": "", 
-    "mongoURL": "",
-    "color": "",
-    "errorMessage": "",
-    "missingPermissions": "",
-    "successEmoji": "",
-    "errorEmoji": ""
+    "token": "OTIzOTI5ODU0NzQ1OTE1NDQz.GJp8ox.S3owf7yQltMtFrPZlc-6AFFj6Vq8BJ5X0j1UPE", 
+    "clientID": "923929854745915443", 
+    "mongoURL": "mongodb+srv://MasonmMasonn:Masonn14@galaxies.b117q.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "color": "RED",
+    "errorMessage": "Sleepy Error",
+    "missingPermissions": "You Don't Have Enough Permission",
+    "successEmoji": ":white_check_mark:",
+    "errorEmoji": ":x:"
 }
